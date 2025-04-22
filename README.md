@@ -27,8 +27,9 @@ Please cite
 @article{Jia2025Diff,
   title={Diffusion-Guided Inpainting of Dunhuang Murals via Structural and Textural Features},
   author={Jia, Rongrong and Du, Shiqiang and Dang, Wei and Zhang, Huaikun and Liu, Jizhao ang Lian,Jing},
-  journal={The Visual Computer},,
-  year={2025}
+  journal={The Visual Computer},
+  year={2025},
+  doi={10.5281/zenodo.15260399}
 }
 ~~~
 
