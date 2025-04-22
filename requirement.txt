@@ -1,0 +1,14 @@
+python>=3.6
+pytorch>=1.8
+torchvision
+numpy
+scipy
+pandas
+blobfile
+nibabel
+opencv-python
+scikit-image
+matplotlib
+batchgenerators
+visdom
+torchsummary
