@@ -29,7 +29,7 @@ Please cite
   author={Jia, Rongrong and Du, Shiqiang and Dang, Wei and Zhang, Huaikun and Liu, Jizhao ang Lian,Jing},
   journal={The Visual Computer},
   year={2025},
-  doi={10.5281/zenodo.15260399}
+  doi={https://doi.org/10.5281/zenodo.15260399}
 }
 ~~~
 
