@@ -25,7 +25,7 @@ python sample.py
 Please cite
 ~~~
 @article{Jia2025Diff,
-  title={Diffusion-Guided Inpainting of Dunhuang Murals via Structural and Textural Features},
+  title={ST-DiffNet: Diffusion-Based Inpainting of Dunhuang Murals with Structural and Textural Guidance},
   author={Jia, Rongrong and Du, Shiqiang and Dang, Wei and Zhang, Huaikun and Liu, Jizhao ang Lian,Jing},
   journal={The Visual Computer},
   year={2025},
