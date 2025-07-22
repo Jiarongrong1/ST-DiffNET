@@ -1,4 +1,4 @@
-# Diffusion-Guided Inpainting of Dunhuang Murals via Structural and Textural Features
+# ST-DiffNet: Diffusion-Based Inpainting of Dunhuang Murals with Structural and Textural Guidance
 
 Diffusion models work by progressively adding Gaussian noise to destroy training data and then learning to recover the data by reversing this noising process. After training, we can use the diffusion model to generate data by simply passing randomly sampled noise through the learned denoising process. In this project, we extend this idea to the restoration of Dunhuang mural images.
 
