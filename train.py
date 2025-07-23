@@ -79,7 +79,7 @@ def create_argparser():
         ema_rate="0.9999",  # comma-separated list of EMA values
         log_interval=100,
         save_interval=1000,
-        resume_checkpoint=r"/home/jiarongrong/jrr/diffusion/results/savedmodel088000.pt",
+        resume_checkpoint=r"XXX",
         use_fp16=False,
         fp16_scale_growth=1e-3,
         gpu_dev = "0,1",
@@ -88,9 +88,9 @@ def create_argparser():
 
 
         mask_type=[3],
-        img_file=r"/home/jiarongrong/jrr/diffusion/data0/1",
-        mask_file=r"/home/jiarongrong/jrr/diffusion/data0/2",
-        structure_file=r'/home/jiarongrong/jrr/diffusion/data0/3',
+        img_file=r"XXX",
+        mask_file=r"XXX",
+        structure_file=r'XXX',
         loadSize=[256, 256],
         fineSize=[256, 256],
         isTrain=True,
