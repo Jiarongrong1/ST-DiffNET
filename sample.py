@@ -157,7 +157,7 @@ def create_argparser():
         num_samples=2,
         batch_size=1,
         use_ddim=False,
-        model_path=r"/home/jiarongrong/jrr/diffusion/results/savedmodel098000.pt",         #path to pretrain model
+        model_path=r"XXX",         #path to pretrain model
         num_ensemble=2,      #number of samples in the ensemble
         gpu_dev = "0,1",
         out_dir='./test_shouhui/',
@@ -165,9 +165,9 @@ def create_argparser():
         debug = False,
 
         mask_type = [3],
-        img_file = r"/home/jiarongrong/jrr/1",
-        mask_file = r"/home/jiarongrong/jrr/2",
-        structure_file = r'/home/jiarongrong/jrr/3',
+        img_file = r"XXX",
+        mask_file = r"XXX",
+        structure_file = r'XXX',
         loadSize = [256, 256],
         fineSize = [256, 256],
         isTrain = True,
