@@ -286,7 +286,7 @@ class GaussianDiffusion:
         cal = 0
         assert t.shape == (B,)
         model_output , cal= model(x, self._scale_timesteps(t), **model_kwargs)
-        self.save_results(model_output, r"E:\zhangjibao\Diffusion\scripts\test", data_name='model_output')
+        self.save_results(model_output, r"XXXXXXXXX", data_name='model_output')
 
 
         x=x[:,0:3,...]  #loss is only calculated on the last channel, not on the input brain MR image
