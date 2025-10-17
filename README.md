@@ -20,18 +20,3 @@ python train.py
 
 Modify sample.py to set img_file, mask_file, and structure_file, and create the corresponding folders. Then, run the following script:
 python sample.py
-
-## Cite
-Please cite
-~~~
-@article{Jia2025Diff,
-  title={ST-DiffNet: Diffusion-Based Inpainting of Dunhuang Murals with Structural and Textural Guidance},
-  author={Jia, Rongrong and Du, Shiqiang and Dang, Wei and Zhang, Huaikun and Liu, Jizhao ang Lian,Jing},
-  journal={The Visual Computer},
-  year={2025},
-  doi={https://doi.org/10.5281/zenodo.15260399}
-}
-~~~
-
-
-
